@@ -1,11 +1,11 @@
 # CT–MRI Liver Registration
 
-**Medical Imaging Research Internship | Perfint Healthcare, Chennai**
+**Medical Image Processing and AI Research Internship | Perfint Healthcare, Chennai**
 
 Developed a patient-specific, landmark-initialized diffeomorphic pipeline for CT–MRI liver registration, targeting image-guided radiofrequency ablation (RFA) planning for liver tumours.
 
 > **Source code:** Confidential — not included in this repository.  
-> **Technical report:** Available upon request, subject to confidentiality approval. 📄 [Request access here](YOUR_DRIVE_LINK)
+> **Technical report:** Available upon request, subject to confidentiality approval. 📄 [Request access here](https://drive.google.com/file/d/1I2fyMKU_ZXV8zEQGDxHN_sucuY_i1Hdj/view?usp=drive_link)
 
 ---
 
@@ -72,7 +72,7 @@ This repository is a **documentation-only portfolio artifact** describing work c
 
 A detailed technical report describing the methodology, experiments, and engineering findings is available upon request, subject to confidentiality approval.
 
-📄 **[Request access to the technical report](YOUR_DRIVE_LINK)**
+📄 **[Request access to the technical report](https://drive.google.com/file/d/1I2fyMKU_ZXV8zEQGDxHN_sucuY_i1Hdj/view?usp=drive_link)**
 
 ---
 
