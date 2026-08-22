@@ -39,7 +39,7 @@ The pipeline was delivered as GUI-driven desktop applications. The image below i
 **mock-up** of the registration interface — a representative illustration using
 placeholder data, not a real screenshot, and containing no clinical data.
 
-![Registration GUI — mock-up (illustrative, placeholder data)](gui.png)
+![Registration GUI — mock-up (illustrative, placeholder data)](figs/gui.png)
 
 *Mock-up for illustration only. Not a real screenshot; no patient data shown.*
 
