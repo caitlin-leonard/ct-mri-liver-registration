@@ -4,7 +4,7 @@
 
 Developed a patient-specific, landmark-initialized diffeomorphic pipeline for CT–MRI liver registration, targeting image-guided radiofrequency ablation (RFA) planning for liver tumours.
 
-![Technical report title](c.png)
+![Technical report title](figs/c.png)
 
 > **Source code:** Confidential — not included in this repository.  
 > **Technical report:** Available upon request, subject to confidentiality approval. 📄 [Request access here](https://drive.google.com/file/d/1I2fyMKU_ZXV8zEQGDxHN_sucuY_i1Hdj/view?usp=drive_link)
