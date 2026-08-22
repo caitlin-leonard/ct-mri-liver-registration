@@ -1,6 +1,6 @@
 # CT–MRI Liver Registration
 
-**Medical Image Processing and AI Research Internship | Perfint Healthcare, Chennai**
+**Medical Image Processing and AI Research**
 
 Developed a patient-specific, landmark-initialized diffeomorphic pipeline for CT–MRI liver registration, targeting image-guided radiofrequency ablation (RFA) planning for liver tumours.
 
